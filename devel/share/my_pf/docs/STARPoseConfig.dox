@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~pose_correction" : \b [double] Pose Correction Factor min: -2.0, default: 0.0, max: 2.0
+- \b "~phase_offset" : \b [double] Phase Offset min: -6.28318530718, default: 0.0, max: 6.28318530718
+

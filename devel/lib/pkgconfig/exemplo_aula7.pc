@@ -1,0 +1,8 @@
+prefix=/home/borg/catkin_ws/devel
+
+Name: exemplo_aula7
+Description: Description of exemplo_aula7
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/borg/catkin_ws/devel/lib 
+Requires: 

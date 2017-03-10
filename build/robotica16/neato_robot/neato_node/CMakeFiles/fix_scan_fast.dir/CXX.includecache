@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/borg/catkin_ws/src/robotica16/neato_robot/neato_node/src/fix_scan_fast.cpp
+ros/ros.h
+/home/borg/catkin_ws/src/robotica16/neato_robot/neato_node/src/ros/ros.h
+ros/time.h
+/home/borg/catkin_ws/src/robotica16/neato_robot/neato_node/src/ros/time.h
+tf/transform_listener.h
+-
+laser_geometry/laser_geometry.h
+-
+math.h
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/borg/catkin_ws/devel
+
+Name: exemplo_python
+Description: Description of exemplo_python
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/borg/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/borg/catkin_ws/devel
+
+Name: loop_python
+Description: Description of loop_python
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/borg/catkin_ws/devel/lib 
+Requires: 

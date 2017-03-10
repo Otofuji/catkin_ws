@@ -1,0 +1,8 @@
+prefix=/home/borg/catkin_ws/install
+
+Name: chama_servico_mapa
+Description: Description of chama_servico_mapa
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/borg/catkin_ws/install/lib 
+Requires: 

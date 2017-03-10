@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="my_pf" pkg="my_pf" type="my_pf">
+  <param name="pose_correction" type="double" value="0.0" />
+  <param name="phase_offset" type="double" value="0.0" />
+</node>
+\endverbatim
+
