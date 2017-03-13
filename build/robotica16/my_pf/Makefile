@@ -150,6 +150,48 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+actionlib_msgs_generate_messages_cpp: robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/rule
+.PHONY : actionlib_msgs_generate_messages_cpp
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_cpp/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build.make robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build
+.PHONY : actionlib_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+actionlib_msgs_generate_messages_lisp: robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/rule
+.PHONY : actionlib_msgs_generate_messages_lisp
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_lisp/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build.make robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build
+.PHONY : actionlib_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+actionlib_msgs_generate_messages_py: robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/rule
+.PHONY : actionlib_msgs_generate_messages_py
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_py/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/build.make robotica16/my_pf/CMakeFiles/actionlib_msgs_generate_messages_py.dir/build
+.PHONY : actionlib_msgs_generate_messages_py/fast
+
+# Convenience name for target.
 robotica16/my_pf/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule:
 	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
 .PHONY : robotica16/my_pf/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
@@ -219,12 +261,57 @@ my_pf_gencfg/fast:
 	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/my_pf_gencfg.dir/build.make robotica16/my_pf/CMakeFiles/my_pf_gencfg.dir/build
 .PHONY : my_pf_gencfg/fast
 
+# Convenience name for target.
+robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+nav_msgs_generate_messages_cpp: robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/rule
+.PHONY : nav_msgs_generate_messages_cpp
+
+# fast build rule for target.
+nav_msgs_generate_messages_cpp/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/build.make robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_cpp.dir/build
+.PHONY : nav_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+nav_msgs_generate_messages_lisp: robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/rule
+.PHONY : nav_msgs_generate_messages_lisp
+
+# fast build rule for target.
+nav_msgs_generate_messages_lisp/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/build.make robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_lisp.dir/build
+.PHONY : nav_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/rule:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/rule
+.PHONY : robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+nav_msgs_generate_messages_py: robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/rule
+.PHONY : nav_msgs_generate_messages_py
+
+# fast build rule for target.
+nav_msgs_generate_messages_py/fast:
+	cd /home/borg/catkin_ws/build && $(MAKE) -f robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/build.make robotica16/my_pf/CMakeFiles/nav_msgs_generate_messages_py.dir/build
+.PHONY : nav_msgs_generate_messages_py/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... actionlib_msgs_generate_messages_cpp"
+	@echo "... actionlib_msgs_generate_messages_lisp"
+	@echo "... actionlib_msgs_generate_messages_py"
 	@echo "... dynamic_reconfigure_gencfg"
 	@echo "... dynamic_reconfigure_generate_messages_cpp"
 	@echo "... dynamic_reconfigure_generate_messages_lisp"
@@ -235,6 +322,9 @@ help:
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... my_pf_gencfg"
+	@echo "... nav_msgs_generate_messages_cpp"
+	@echo "... nav_msgs_generate_messages_lisp"
+	@echo "... nav_msgs_generate_messages_py"
 	@echo "... rebuild_cache"
 	@echo "... test"
 .PHONY : help
