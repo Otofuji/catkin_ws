@@ -7,3 +7,6 @@
 [submodule "robot17.1"]
 	path = src/robot17
 	url = https://github.com/mirwox/robot17
+[submodule "robot17.2"]
+	path = src/robot17
+	url = https://github.com/Otofuji/robot17
