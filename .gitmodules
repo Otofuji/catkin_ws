@@ -1,6 +1,6 @@
-[submodule "src/robot17"]
-	path = src/robot17
-	url = https://github.com/mirwox/robot17
 [submodule "src/robotica16"]
 	path = src/robotica16
 	url = https://github.com/Otofuji/robotica16
+[submodule "src/robot17"]
+	path = src/robot17
+	url = https://github.com/mirwox/robot17
